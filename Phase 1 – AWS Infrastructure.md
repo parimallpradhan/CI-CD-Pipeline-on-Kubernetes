@@ -94,6 +94,9 @@ Create a security group with these inbound rules:
 
 ### 9. Attach a **30 GB gp3** root volume.
 
+<img width="1892" height="532" alt="image" src="https://github.com/user-attachments/assets/6d6f7bd0-4453-4993-9f8e-97a0aa079c0a" />
+
+
 ### 10. Launch the instance.
 <img width="1908" height="380" alt="image" src="https://github.com/user-attachments/assets/357be181-e04a-4a94-8593-a9ca7e65635f" />
 
