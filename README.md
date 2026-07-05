@@ -95,26 +95,14 @@ We'll complete this in **10 phases**.
 | Phase | Topic                           |
 | ----- | ------------------------------- |
 | 1     | [AWS Infrastructure](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%201%20%E2%80%93%20AWS%20Infrastructure.md)              |
-| 2     | Install Jenkins                 |
-| 3     | Install Docker                  |
-| 4     | Install Kubernetes              |
-| 5     | Configure Jenkins               |
-| 6     | Build Java Application          |
-| 7     | Dockerize Application           |
-| 8     | Trivy Scan                      |
-| 9     | Deploy to Kubernetes            |
-| 10    | Build Complete Jenkins Pipeline |
+| 2     | [Install Jenkins](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%202%20%E2%80%93%20Install%20%26%20Configure%20Jenkins%20on%20AWS%20EC2.md)                 |
+| 3     | [Install Docker](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%203%20%E2%80%93%20Install%20Docker%20%26%20Integrate%20with%20Jenkins.md)                  |
+| 4     | [Install Kubernetes](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%204%20%E2%80%93%20Install%20Kubernetes%20Using%20kubeadm.md)              |
+| 5     | [Configure Jenkins](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%205%20%E2%80%93%20Configure%20Jenkins%20for%20Kubernetes%20CICD.md)               |
+| 6     | [Build Java Application](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%206%20%E2%80%93%20Build%20the%20Java%20Application%20with%20Maven.md)         |
+| 7     | [Dockerize Application](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%207%20%E2%80%93%20Dockerize%20the%20Spring%20Boot%20Application.md)           |
+| 8     | [Trivy Scan](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%208%20%E2%80%93%20DevSecOps%3A%20Scan%20Docker%20Images%20with%20Trivy.md)                      |
+| 9     | [Deploy to Kubernetes](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%209%20%E2%80%93%20Deploy%20Application%20to%20Kubernetes.md)            |
+| 10    | [Build Complete Jenkins Pipeline](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%2010%20%E2%80%93%20Build%20the%20Complete%20Jenkins%20CICD%20Pipeline.md) |
 
 ---
-
-[Phase 1 – AWS Infrastructure](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%201%20%E2%80%93%20AWS%20Infrastructure.md)
-Phase 2 – Install & Configure Jenkins on AWS EC2
-Phase 3 – Install Docker & Integrate with Jenkins
-Phase 4 – Install Kubernetes Using kubeadm
-Phase 5 – Configure Jenkins for Kubernetes CICD
-Phase 6 – Build the Java Application with Maven
-Phase 7 – Dockerize the Spring Boot Application
-Phase 8 – DevSecOps: Scan Docker Images with Trivy
-Phase 9 – Deploy Application to Kubernetes
-Phase 10 – Build the Complete Jenkins CICD Pipeline
-
