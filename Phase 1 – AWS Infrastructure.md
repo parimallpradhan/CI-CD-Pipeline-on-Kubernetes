@@ -97,7 +97,7 @@ Create a security group with these inbound rules:
 ### 10. Launch the instance.
 <img width="1908" height="380" alt="image" src="https://github.com/user-attachments/assets/357be181-e04a-4a94-8593-a9ca7e65635f" />
 
-<img width="1901" height="393" alt="image" src="https://github.com/user-attachments/assets/6dc97495-3b9c-4a72-8ac5-bbbba9c2b020" />
+
 
 ---
 
@@ -111,15 +111,17 @@ ssh -i your-key.pem ubuntu@<EC2_PUBLIC_IP>
 <img width="1913" height="491" alt="image" src="https://github.com/user-attachments/assets/ec5fff71-6914-416c-b189-ef40bf717d1c" />
 
 
+
 ### Verify the operating system:
 
 ```bash
 cat /etc/os-release
 ```
+<img width="1901" height="393" alt="image" src="https://github.com/user-attachments/assets/6dc97495-3b9c-4a72-8ac5-bbbba9c2b020" />
 
 ### Expected output should indicate Ubuntu 24.04 LTS.
 
-<img width="1911" height="343" alt="image" src="https://github.com/user-attachments/assets/ecf1eaa1-5ff9-4356-a27f-2e61263e7321" />
+
 
 ---
 
@@ -130,6 +132,7 @@ sudo apt update
 sudo apt upgrade -y
 sudo reboot
 ```
+<img width="1911" height="343" alt="image" src="https://github.com/user-attachments/assets/ecf1eaa1-5ff9-4356-a27f-2e61263e7321" />
 
 Reconnect after the reboot and verify connectivity.
 
