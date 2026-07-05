@@ -35,7 +35,7 @@ This is ideal for a portfolio project. Later, we can evolve it into a multi-serv
 | Storage       | 30 GB gp3                          |
 | Key Pair      | Create or use an existing key pair |
 
-**Why `t3.medium`?** Jenkins, Docker, and Kubernetes are memory-intensive. A `t2.micro` or `t3.micro` often struggles with all these services running together.
+**Why `m7i-flex.large`?** Jenkins, Docker, and Kubernetes are memory-intensive. A `t2.micro` or `t3.micro` often struggles with all these services running together.
 
 ---
 
