@@ -108,16 +108,15 @@ Create a security group with these inbound rules:
 ```bash
 ssh -i your-key.pem ubuntu@<EC2_PUBLIC_IP>
 ```
-<img width="1913" height="491" alt="image" src="https://github.com/user-attachments/assets/ec5fff71-6914-416c-b189-ef40bf717d1c" />
 
-
+<img width="1901" height="393" alt="image" src="https://github.com/user-attachments/assets/6dc97495-3b9c-4a72-8ac5-bbbba9c2b020" />
 
 ### Verify the operating system:
 
 ```bash
 cat /etc/os-release
 ```
-<img width="1901" height="393" alt="image" src="https://github.com/user-attachments/assets/6dc97495-3b9c-4a72-8ac5-bbbba9c2b020" />
+<img width="1913" height="491" alt="image" src="https://github.com/user-attachments/assets/ec5fff71-6914-416c-b189-ef40bf717d1c" />
 
 ### Expected output should indicate Ubuntu 24.04 LTS.
 
