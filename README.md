@@ -94,7 +94,7 @@ We'll complete this in **10 phases**.
 
 | Phase | Topic                           |
 | ----- | ------------------------------- |
-| 1     | AWS Infrastructure              |
+| 1     | [AWS Infrastructure](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%201%20%E2%80%93%20AWS%20Infrastructure.md)              |
 | 2     | Install Jenkins                 |
 | 3     | Install Docker                  |
 | 4     | Install Kubernetes              |
