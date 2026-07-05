@@ -104,5 +104,5 @@ We'll complete this in **10 phases**.
 | 8     | [Trivy Scan](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%208%20%E2%80%93%20DevSecOps%3A%20Scan%20Docker%20Images%20with%20Trivy.md)                      |
 | 9     | [Deploy to Kubernetes](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%209%20%E2%80%93%20Deploy%20Application%20to%20Kubernetes.md)            |
 | 10    | [Build Complete Jenkins Pipeline](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%2010%20%E2%80%93%20Build%20the%20Complete%20Jenkins%20CICD%20Pipeline.md) |
-| 11    | [Build Complete Jenkins Pipeline](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%2011%20%E2%80%93%20Monitoring%20Kubernetes%20%26%20EC2%20using%20Amazon%20CloudWatch.md) |
+| 11    | [Monitoring Kubernetes & EC2 using Amazon CloudWatch](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%2011%20%E2%80%93%20Monitoring%20Kubernetes%20%26%20EC2%20using%20Amazon%20CloudWatch.md) |
 ---
