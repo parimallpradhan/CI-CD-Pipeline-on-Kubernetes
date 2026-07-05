@@ -107,7 +107,14 @@ We'll complete this in **10 phases**.
 
 ---
 
-# 🚀 Phase 1 – AWS Infrastructure
-
-
+[Phase 1 – AWS Infrastructure](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes/blob/main/Phase%201%20%E2%80%93%20AWS%20Infrastructure.md)
+Phase 2 – Install & Configure Jenkins on AWS EC2
+Phase 3 – Install Docker & Integrate with Jenkins
+Phase 4 – Install Kubernetes Using kubeadm
+Phase 5 – Configure Jenkins for Kubernetes CICD
+Phase 6 – Build the Java Application with Maven
+Phase 7 – Dockerize the Spring Boot Application
+Phase 8 – DevSecOps: Scan Docker Images with Trivy
+Phase 9 – Deploy Application to Kubernetes
+Phase 10 – Build the Complete Jenkins CICD Pipeline
 
