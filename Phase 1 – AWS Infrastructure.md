@@ -31,7 +31,7 @@ This is ideal for a portfolio project. Later, we can evolve it into a multi-serv
 | ------------- | ---------------------------------- |
 | Region        | ap-south-1 (Mumbai)                |
 | OS            | Ubuntu Server 24.04 LTS            |
-| Instance Type | t3.medium (recommended)            |
+| Instance Type | m7i-flex.large (recommended)            |
 | Storage       | 30 GB gp3                          |
 | Key Pair      | Create or use an existing key pair |
 
